@@ -1,0 +1,11 @@
+Package: omicsUtilsR
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Author: Priyansh Srivastava <spriyansh29@gmail.com>
+Maintainer: Priyansh Srivastava <spriyansh29@gmail.com> 
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Imports: DropletUtils, rhdf5
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
